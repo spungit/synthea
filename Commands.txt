@@ -1,0 +1,9 @@
+Online resources:
+https://towardsdatascience.com/generating-synthetic-patient-data-b7901c3bd397
+
+Export as csv:
+--exporter.csv.export true
+
+Modules:
+https://github.com/synthetichealth/synthea/wiki/Module-Gallery
+
